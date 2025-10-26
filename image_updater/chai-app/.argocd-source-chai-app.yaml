@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - nrjydv1997/chai-devops:v1.0.1
+  - nrjydv1997/chai-devops:v1.0.2
